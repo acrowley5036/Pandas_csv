@@ -2,7 +2,20 @@ Utterance,pos_neg,pos_neg_neut
 I don't like you.,negative,negative
 I like apples.,positive,positive
 How many rings doesn Saturn have?,positive,neutral
-I'm allergic to dogs,negative,neutral
-I'm afraid of dogs,negative,negative
-I want to own a dog,positive,neutral 
+I'm allergic to dogs.,negative,neutral
+I'm afraid of dogs.,negative,negative
+I want to own a dog.,positive,neutral 
 How far away is the Sun?,positive,neutral
+Why is the sky blue?,possitive,neutral
+How fast is the speed of light?,positive,neutral
+I broke my arm.,negative,negative
+Apples are my favorite food.,positive,positive
+I didn't sleep well last night.,negative,negative
+How can I fall asleep faster?,positive,neutral
+I own 2 cars.,positive,neutral
+My car was stolen.,negative,negative
+I tripped in front of a group of people today.,negative,neutral
+I bird watch in my free time.,positive,neutral
+I don't know why some people are afraid of birds.,negative,neutral
+My neighbors like me, but I don't like them.,negative,negative
+I believe in Bigfoot.,positive,neutral
