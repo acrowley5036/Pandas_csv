@@ -1,1 +1,8 @@
-Utterance, pos_neg, pos_neg_neut
+Utterance,pos_neg,pos_neg_neut
+I don't like you.,negative,negative
+I like apples.,positive,positive
+How many rings doesn Saturn have?,positive,neutral
+I'm allergic to dogs,negative,neutral
+I'm afraid of dogs,negative,negative
+I want to own a dog,positive,neutral 
+How far away is the Sun?,positive,neutral
